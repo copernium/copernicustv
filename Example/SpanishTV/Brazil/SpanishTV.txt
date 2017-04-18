@@ -1,0 +1,36 @@
+"Globo Ao"
+
+<item>
+<title>Globo Ao<title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/brazil/globoao</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"Rede Brasil"
+
+<item>
+<title>Rede Brasil</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/brazil/redebrasil</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"TV Brasil International"
+
+<item>
+<title>TV Brasil International</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/brazil/tvbrasilinternational</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"Band"
+
+<item>
+<title>Band</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/brazil/band</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+

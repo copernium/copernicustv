@@ -1,0 +1,46 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>USA-Canada TV</name>
+<thumbnail>http://copernium.com/copernicus/copernicustv/usa-canada/canada-us.jpg</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Europe TV</name>
+<thumbnail>http://copernium.com/copernicus/copernicustv/europe/made-in-europe.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Spanish TV</name>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Sports TV</name>
+<thumbnail>http://copernium.com/copernicus/copernicustv/sports/OlympicSportsIcons.jpg</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+
+<channel>
+<name>PPV Live</name>
+<thumbnail></thumbnail>
+<externallink>http://copernium.com/copernicus/copernicustv/ppvlive/PPVvlogo.jpg</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>

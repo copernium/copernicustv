@@ -1,0 +1,80 @@
+"Telefe"	
+
+<item>
+<title>Telefe</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/telefe</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"C5N"
+
+<item>
+<title>C5N</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/c5n</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"TV Publica"
+
+<item>
+<title>TV Publica</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/tvpublica</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"Encuentro"
+
+<item>
+<title>Encuentro</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/encuentro</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"Canal 9"
+
+<item>
+<title>Canal 9</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/canal9</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"El Trece"
+
+<item>
+<title>El Trece</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/eltrece</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"America TV"
+
+<item>
+<title>America TV</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/americatv</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"TyC Sports"
+
+<item>
+<title>TyC Sports</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/tycsports</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
+
+"America 24"
+
+<item>
+<title>America 24</title>
+<link></link>
+<thumbnail>http://copernium.com/copernicus/copernicustv/latinamerica/argentina/america24</thumbnail>
+<fanart>http://copernium.com/copernicus/copernicustv/latinamerica/central_sudamerica_flags10.png</fanart>
+</item>
